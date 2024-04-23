@@ -3,4 +3,7 @@ let myObj={
     name:'Ganesh',
     age:22
 }
-console.log("Ganesh")
+
+const myFunction =function(){
+    console.log("Hello World")
+}
